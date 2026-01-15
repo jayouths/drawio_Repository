@@ -16,19 +16,19 @@
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-33" connectable="0" parent="DD6g3UH0dJglVFRNTPqR-1" style="group" value="" vertex="1">
           <mxGeometry height="400" width="80" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-8" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="应用" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-8" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span&gt;&lt;b&gt;应用&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-29" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="传输控制" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-29" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="传输控制" vertex="1">
           <mxGeometry height="80" width="80" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-30" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="路由转发" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-30" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="路由转发" vertex="1">
           <mxGeometry height="80" width="80" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-31" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链路" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-31" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="数据链路" vertex="1">
           <mxGeometry height="80" width="80" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-32" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="物理介质" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-32" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="物理介质" vertex="1">
           <mxGeometry height="80" width="80" y="320" as="geometry" />
         </mxCell>
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-34" connectable="0" parent="DD6g3UH0dJglVFRNTPqR-1" style="group" value="" vertex="1">
