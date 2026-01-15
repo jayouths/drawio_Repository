@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="第 1 页" id="a3wJfUDJP7umCLPdVTeB">
     <mxGraphModel dx="1234" dy="849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="400" width="320" x="240" y="360" as="geometry" />
+        <mxCell id="DD6g3UH0dJglVFRNTPqR-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="320" x="240" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="400" width="80" x="240" y="360" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-1" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="400" width="320" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-33" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="400" width="80" x="240" y="360" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-3" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="400" width="80" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-33" connectable="0" parent="DD6g3UH0dJglVFRNTPqR-1" style="group" value="" vertex="1">
+          <mxGeometry height="400" width="80" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-8" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="应用" vertex="1">
           <mxGeometry height="80" width="80" as="geometry" />
@@ -28,14 +31,14 @@
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-32" parent="PRgQBdMKrYGl9VMOB2wn-33" style="rounded=0;whiteSpace=wrap;html=1;" value="物理介质" vertex="1">
           <mxGeometry height="80" width="80" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-34" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="400" width="80" x="320" y="360" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-34" connectable="0" parent="DD6g3UH0dJglVFRNTPqR-1" style="group" value="" vertex="1">
+          <mxGeometry height="400" width="80" x="80" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-35" parent="PRgQBdMKrYGl9VMOB2wn-34" style="rounded=0;whiteSpace=wrap;html=1;" value="应用层&lt;div&gt;表示层&lt;/div&gt;&lt;div&gt;会话层&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-46" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="400" width="80" x="480" y="360" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-46" connectable="0" parent="DD6g3UH0dJglVFRNTPqR-1" style="group" value="" vertex="1">
+          <mxGeometry height="400" width="80" x="240" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-47" parent="PRgQBdMKrYGl9VMOB2wn-46" style="rounded=0;whiteSpace=wrap;html=1;" value="应用层" vertex="1">
           <mxGeometry height="80" width="160" x="-80" as="geometry" />
@@ -46,29 +49,29 @@
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-51" parent="PRgQBdMKrYGl9VMOB2wn-46" style="rounded=0;whiteSpace=wrap;html=1;" value="网络接口层" vertex="1">
           <mxGeometry height="160" width="80" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="OSI&lt;br&gt;七层" vertex="1">
-          <mxGeometry height="40" width="80" x="320" y="300" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-62" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="OSI&lt;br&gt;七层" vertex="1">
+          <mxGeometry height="40" width="80" x="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="教科书&lt;div&gt;五层&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="400" y="300" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-63" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="教科书&lt;div&gt;五层&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="160" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TCP/IP&lt;br&gt;四层" vertex="1">
-          <mxGeometry height="40" width="80" x="480" y="300" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-64" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TCP/IP&lt;br&gt;四层" vertex="1">
+          <mxGeometry height="40" width="80" x="240" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="功能层次" vertex="1">
-          <mxGeometry height="40" width="80" x="240" y="300" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-65" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="功能层次" vertex="1">
+          <mxGeometry height="40" width="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="传输层" vertex="1">
-          <mxGeometry height="80" width="240" x="320" y="440" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-42" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="传输层" vertex="1">
+          <mxGeometry height="80" width="240" x="80" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络层" vertex="1">
-          <mxGeometry height="80" width="160" x="320" y="520" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-43" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络层" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链路层" vertex="1">
-          <mxGeometry height="80" width="160" x="320" y="600" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-44" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链路层" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="物理层" vertex="1">
-          <mxGeometry height="80" width="160" x="320" y="680" as="geometry" />
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-45" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="物理层" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
