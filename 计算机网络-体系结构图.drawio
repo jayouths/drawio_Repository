@@ -49,16 +49,16 @@
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-51" parent="PRgQBdMKrYGl9VMOB2wn-46" style="rounded=0;whiteSpace=wrap;html=1;" value="网络接口层" vertex="1">
           <mxGeometry height="160" width="80" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-62" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="OSI&lt;br&gt;七层" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-62" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="OSI&lt;br&gt;七层" vertex="1">
           <mxGeometry height="40" width="80" x="80" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-63" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="教科书&lt;div&gt;五层&lt;/div&gt;" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-63" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="教科书&lt;div&gt;五层&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="160" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-64" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TCP/IP&lt;br&gt;四层" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-64" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="TCP/IP&lt;br&gt;四层" vertex="1">
           <mxGeometry height="40" width="80" x="240" as="geometry" />
         </mxCell>
-        <mxCell id="PRgQBdMKrYGl9VMOB2wn-65" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="功能层次" vertex="1">
+        <mxCell id="PRgQBdMKrYGl9VMOB2wn-65" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="功能层次" vertex="1">
           <mxGeometry height="40" width="80" as="geometry" />
         </mxCell>
         <mxCell id="PRgQBdMKrYGl9VMOB2wn-42" parent="DD6g3UH0dJglVFRNTPqR-1" style="rounded=0;whiteSpace=wrap;html=1;" value="传输层" vertex="1">
