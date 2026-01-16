@@ -7,8 +7,8 @@
         <mxCell id="42guixXldqZVJfoIaL5Q-24" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;container=0;" value="" vertex="1">
           <mxGeometry height="42.599999999999994" width="42" x="149" y="403.3" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="主机 A：我要访问某外网 IP" vertex="1">
-          <mxGeometry height="30" width="190" x="75" y="453.3" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="主机 A：我要访问某外网 IP：ip_test" vertex="1">
+          <mxGeometry height="30" width="205" x="75" y="453.3" as="geometry" />
         </mxCell>
         <mxCell id="42guixXldqZVJfoIaL5Q-29" edge="1" parent="1" source="42guixXldqZVJfoIaL5Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-51">
           <mxGeometry relative="1" as="geometry">
@@ -60,7 +60,7 @@
         <mxCell id="42guixXldqZVJfoIaL5Q-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" value="路由器 B 的&lt;b&gt;路由表&lt;/b&gt;" vertex="1">
           <mxGeometry height="42" width="240" x="440" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="ip address 1/n" vertex="1">
+        <mxCell id="42guixXldqZVJfoIaL5Q-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="ip_test 的网络地址" vertex="1">
           <mxGeometry height="40" width="120" x="440" y="260" as="geometry" />
         </mxCell>
         <mxCell id="42guixXldqZVJfoIaL5Q-48" edge="1" parent="1" source="42guixXldqZVJfoIaL5Q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-47">
