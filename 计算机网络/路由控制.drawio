@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="第 1 页" id="Q-apOF9nZ2k05AlA6IEx">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="240" x="250" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-5" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="240" x="250" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-2" parent="42guixXldqZVJfoIaL5Q-5" style="rounded=0;whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="40" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-4" parent="42guixXldqZVJfoIaL5Q-5" style="rounded=0;whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="40" width="120" x="120" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-6" connectable="0" parent="1" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="40" width="240" x="250" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-7" parent="42guixXldqZVJfoIaL5Q-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;IP 地址&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-8" parent="42guixXldqZVJfoIaL5Q-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;下一跳的 IP 地址&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="120" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="主机/路由器的&lt;b&gt;路由表&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="250" y="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
