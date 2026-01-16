@@ -4,103 +4,106 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="42guixXldqZVJfoIaL5Q-24" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;container=0;" value="" vertex="1">
-          <mxGeometry height="42.599999999999994" width="42" x="149" y="403.3" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-59" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="303.3" width="730" x="50" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="主机 A：我要访问某外网 IP：ip_test" vertex="1">
-          <mxGeometry height="30" width="205" x="75" y="453.3" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-24" parent="42guixXldqZVJfoIaL5Q-59" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;container=0;" value="" vertex="1">
+          <mxGeometry height="42.599999999999994" width="42" x="99" y="223.3" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-29" edge="1" parent="1" source="42guixXldqZVJfoIaL5Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-51">
+        <mxCell id="42guixXldqZVJfoIaL5Q-26" parent="42guixXldqZVJfoIaL5Q-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="主机 A：我要访问某外网 IP：ip_test" vertex="1">
+          <mxGeometry height="30" width="205" x="25" y="273.3" as="geometry" />
+        </mxCell>
+        <mxCell id="42guixXldqZVJfoIaL5Q-29" edge="1" parent="42guixXldqZVJfoIaL5Q-59" source="42guixXldqZVJfoIaL5Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="605" as="targetPoint" />
+            <mxPoint x="10" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-33" edge="1" parent="1" source="42guixXldqZVJfoIaL5Q-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-32">
+        <mxCell id="42guixXldqZVJfoIaL5Q-33" edge="1" parent="42guixXldqZVJfoIaL5Q-59" source="42guixXldqZVJfoIaL5Q-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-45" edge="1" parent="1" source="42guixXldqZVJfoIaL5Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-41">
+        <mxCell id="42guixXldqZVJfoIaL5Q-45" edge="1" parent="42guixXldqZVJfoIaL5Q-59" source="42guixXldqZVJfoIaL5Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-32" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;container=0;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="340" y="343.3" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-32" parent="42guixXldqZVJfoIaL5Q-59" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;container=0;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="290" y="163.3" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
-          <mxGeometry height="200" width="240" x="50" y="180" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-1" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="200" width="240" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-6" connectable="0" parent="1" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="" vertex="1">
-          <mxGeometry height="40" width="240" x="50" y="220" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-6" connectable="0" parent="42guixXldqZVJfoIaL5Q-59" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="" vertex="1">
+          <mxGeometry height="40" width="240" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" value="主机 A 的&lt;b&gt;路由表&lt;/b&gt;" vertex="1">
-          <mxGeometry height="42" width="240" x="50" y="180" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-15" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" value="主机 A 的&lt;b&gt;路由表&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="240" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="50" y="340" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-2" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="40" width="120" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="on-link" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="260" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-4" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="on-link" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="340" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-30" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
-          <mxGeometry height="40" width="120" x="50" y="340" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-31" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
+          <mxGeometry height="40" width="120" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;网络地址&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="50" y="220" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-7" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;网络地址&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;下一跳的 IP 地址&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="220" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-8" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;下一跳的 IP 地址&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
-          <mxGeometry height="152" width="240" x="440" y="180" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-36" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="152" width="240" x="390" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-37" connectable="0" parent="1" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="" vertex="1">
-          <mxGeometry height="40" width="240" x="440" y="220" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-37" connectable="0" parent="42guixXldqZVJfoIaL5Q-59" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="" vertex="1">
+          <mxGeometry height="40" width="240" x="390" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" value="路由器 B 的&lt;b&gt;路由表&lt;/b&gt;" vertex="1">
-          <mxGeometry height="42" width="240" x="440" y="180" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-40" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" value="路由器 B 的&lt;b&gt;路由表&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="240" x="390" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="ip_test 的网络地址" vertex="1">
-          <mxGeometry height="40" width="120" x="440" y="260" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-41" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="ip_test 的网络地址" vertex="1">
+          <mxGeometry height="40" width="120" x="390" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-48" edge="1" parent="1" source="42guixXldqZVJfoIaL5Q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-47">
+        <mxCell id="42guixXldqZVJfoIaL5Q-48" edge="1" parent="42guixXldqZVJfoIaL5Q-59" source="42guixXldqZVJfoIaL5Q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="42guixXldqZVJfoIaL5Q-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="Router C" vertex="1">
-          <mxGeometry height="40" width="120" x="560" y="260" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-42" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="Router C" vertex="1">
+          <mxGeometry height="40" width="120" x="510" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
-          <mxGeometry height="40" width="120" x="560" y="300" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-43" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
+          <mxGeometry height="40" width="120" x="510" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
-          <mxGeometry height="40" width="120" x="440" y="300" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-44" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="..." vertex="1">
+          <mxGeometry height="40" width="120" x="390" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;网络地址&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="440" y="220" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-38" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;网络地址&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="390" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;下一跳的 IP 地址&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="560" y="220" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-39" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" value="&lt;b&gt;下一跳的 IP 地址&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="510" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-47" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;container=0;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="720" y="343.3" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-47" parent="42guixXldqZVJfoIaL5Q-59" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;container=0;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="670" y="163.3" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="本机网络地址" vertex="1">
-          <mxGeometry height="40" width="120" x="50" y="260" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-50" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="本机网络地址" vertex="1">
+          <mxGeometry height="40" width="120" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="0.0.0.0" vertex="1">
-          <mxGeometry height="40" width="120" x="50" y="300" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-51" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="0.0.0.0" vertex="1">
+          <mxGeometry height="40" width="120" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="默认网关的 IP 地址" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="300" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-52" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="默认网关的 IP 地址" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="340" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-53" parent="42guixXldqZVJfoIaL5Q-59" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="路由器 B" vertex="1">
-          <mxGeometry height="30" width="60" x="340" y="410" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-54" parent="42guixXldqZVJfoIaL5Q-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="路由器 B" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="42guixXldqZVJfoIaL5Q-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="路由器 C" vertex="1">
-          <mxGeometry height="30" width="60" x="720" y="410" as="geometry" />
+        <mxCell id="42guixXldqZVJfoIaL5Q-57" parent="42guixXldqZVJfoIaL5Q-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="路由器 C" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
