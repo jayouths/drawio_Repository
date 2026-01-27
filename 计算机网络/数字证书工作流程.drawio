@@ -60,8 +60,11 @@
         <mxCell id="A9AxBQmVy8qXgrLwkVjf-1" parent="A9AxBQmVy8qXgrLwkVjf-3" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;container=0;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="300" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="A9AxBQmVy8qXgrLwkVjf-8" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="210" width="530" x="150" y="280" as="geometry" />
+        <mxCell id="A9AxBQmVy8qXgrLwkVjf-11" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="530" x="120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A9AxBQmVy8qXgrLwkVjf-8" connectable="0" parent="A9AxBQmVy8qXgrLwkVjf-11" style="group" value="" vertex="1">
+          <mxGeometry height="210" width="530" as="geometry" />
         </mxCell>
         <mxCell id="d4Q7ltqI19wg8MvoMxPA-1" parent="A9AxBQmVy8qXgrLwkVjf-8" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;container=0;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="430" y="110" as="geometry" />
@@ -111,8 +114,8 @@
             <mxPoint x="255" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9AxBQmVy8qXgrLwkVjf-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="④" vertex="1">
-          <mxGeometry height="30" width="60" x="370" y="480" as="geometry" />
+        <mxCell id="A9AxBQmVy8qXgrLwkVjf-10" parent="A9AxBQmVy8qXgrLwkVjf-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="④" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
