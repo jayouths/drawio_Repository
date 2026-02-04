@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
+  <diagram name="第 1 页" id="IuaB_KktClfNwsIsrFCj">
+    <mxGraphModel dx="1426" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-24" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="250" width="845" x="25" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-8" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cmEBfT4_ZbEIFl-4T3KE-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-12" connectable="0" parent="cmEBfT4_ZbEIFl-4T3KE-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;是&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0609" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-10" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="cmEBfT4_ZbEIFl-4T3KE-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-11" connectable="0" parent="cmEBfT4_ZbEIFl-4T3KE-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;&lt;font&gt;定位慢 SQL 语句&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0571" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-6" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;b&gt;是否存在周期性波动&lt;/b&gt;" vertex="1">
+          <mxGeometry height="130" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-7" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="whiteSpace=wrap;html=1;" value="考虑添加缓存" vertex="1">
+          <mxGeometry height="60" width="120" x="5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-14" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cmEBfT4_ZbEIFl-4T3KE-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-15" connectable="0" parent="cmEBfT4_ZbEIFl-4T3KE-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;等待时间长&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0957" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-17" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="cmEBfT4_ZbEIFl-4T3KE-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-18" connectable="0" parent="cmEBfT4_ZbEIFl-4T3KE-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;执行时间长&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-9" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;b&gt;等待时间长&lt;/b&gt;&lt;div&gt;&lt;b&gt;or&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;执行时间长&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-13" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="whiteSpace=wrap;html=1;" value="调优服务器参数" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-23" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cmEBfT4_ZbEIFl-4T3KE-22" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;仍无效：&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;可能达到硬件瓶颈&lt;/b&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-16" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;优化：&lt;/b&gt;&lt;div&gt;&lt;b&gt;1. 索引&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. SQL 语句&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. 数据库设计&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="495" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-22" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="whiteSpace=wrap;html=1;" value="&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;考虑：&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;读写分离、分库分表&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="725" y="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
