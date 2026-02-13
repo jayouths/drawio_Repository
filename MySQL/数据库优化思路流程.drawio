@@ -55,7 +55,7 @@
         <mxCell id="cmEBfT4_ZbEIFl-4T3KE-13" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="whiteSpace=wrap;html=1;" value="调优服务器参数" vertex="1">
           <mxGeometry height="60" width="120" x="265" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-23" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cmEBfT4_ZbEIFl-4T3KE-22" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;仍无效：&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;可能达到硬件瓶颈&lt;/b&gt;">
+        <mxCell id="cmEBfT4_ZbEIFl-4T3KE-23" edge="1" parent="cmEBfT4_ZbEIFl-4T3KE-24" source="cmEBfT4_ZbEIFl-4T3KE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cmEBfT4_ZbEIFl-4T3KE-22" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;仍无效：&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: wrap;&quot;&gt;可能达到硬件瓶颈&lt;/b&gt;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cmEBfT4_ZbEIFl-4T3KE-16" parent="cmEBfT4_ZbEIFl-4T3KE-24" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;优化：&lt;/b&gt;&lt;div&gt;&lt;b&gt;1. 索引&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. SQL 语句&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. 数据库设计&lt;/b&gt;&lt;/div&gt;" vertex="1">
