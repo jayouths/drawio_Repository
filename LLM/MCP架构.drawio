@@ -20,7 +20,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YUcEpffvUjmaZV7XU-SP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="服务提供方" vertex="1">
-          <mxGeometry height="30" width="70" x="155" y="269" as="geometry" />
+          <mxGeometry height="30" width="70" x="155" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OrCexG3beAlzC4CW-2vx-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="服务使用方" vertex="1">
+          <mxGeometry height="30" width="70" x="492" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
