@@ -1,9 +1,111 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="第 1 页" id="8SceDOx-_9u6IUYXFnoH">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9ngqKcW58ohVruTkaSC4-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="260" as="sourcePoint" />
+            <mxPoint x="330" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-5" connectable="0" parent="9ngqKcW58ohVruTkaSC4-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;用户输入&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.004" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-36" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="520" width="120" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-1" parent="9ngqKcW58ohVruTkaSC4-36" style="rounded=0;whiteSpace=wrap;html=1;" value="用户" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-6" edge="1" parent="9ngqKcW58ohVruTkaSC4-36" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9ngqKcW58ohVruTkaSC4-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="520" as="sourcePoint" />
+            <mxPoint x="120" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-37" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="520" width="120" x="270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-2" parent="9ngqKcW58ohVruTkaSC4-37" style="rounded=0;whiteSpace=wrap;html=1;" value="Claude Code" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-7" edge="1" parent="9ngqKcW58ohVruTkaSC4-37" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9ngqKcW58ohVruTkaSC4-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="520" as="sourcePoint" />
+            <mxPoint x="59.5" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-9" edge="1" parent="9ngqKcW58ohVruTkaSC4-37" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="170" as="sourcePoint" />
+            <mxPoint x="290" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-10" connectable="0" parent="9ngqKcW58ohVruTkaSC4-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;用户输入&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Skill 列表（名称&amp;amp;描述）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.004" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-11" edge="1" parent="9ngqKcW58ohVruTkaSC4-37" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+            <mxPoint x="60" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-12" connectable="0" parent="9ngqKcW58ohVruTkaSC4-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;选择某 Skill&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.004" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-13" edge="1" parent="9ngqKcW58ohVruTkaSC4-37" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-14" connectable="0" parent="9ngqKcW58ohVruTkaSC4-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;用户输入&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;某 Skill 的 SKILL.md&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.004" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-15" edge="1" parent="9ngqKcW58ohVruTkaSC4-37" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="340" as="sourcePoint" />
+            <mxPoint x="60" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-16" connectable="0" parent="9ngqKcW58ohVruTkaSC4-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;模型返回&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.004" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-38" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="520" width="120" x="500" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-3" parent="9ngqKcW58ohVruTkaSC4-38" style="rounded=0;whiteSpace=wrap;html=1;" value="LLM" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-8" edge="1" parent="9ngqKcW58ohVruTkaSC4-38" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9ngqKcW58ohVruTkaSC4-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="520" as="sourcePoint" />
+            <mxPoint y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="520" as="sourcePoint" />
+            <mxPoint x="100" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ngqKcW58ohVruTkaSC4-41" connectable="0" parent="9ngqKcW58ohVruTkaSC4-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;模型返回&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.004" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
